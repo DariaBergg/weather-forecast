@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+.forecast-box {
+  border: 1px solid grey;
+  box-shadow: 5px 10px 15px grey;
+  width: 300px;
+  min-height: 50vh;
+  margin: 50px auto;
+}
+
+.forecast-box h2 {
+  margin-top: 40px;
+}
+
+.forecast-info {
+  margin-top: 40px;
+}
+.temp {
+  font-size: 32px;
+  font-weight: 400;
+}
+.close-btn {
+  position: relative;
+  left: 150px;
+  bottom:10px;
+}
